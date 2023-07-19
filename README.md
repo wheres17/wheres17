@@ -3,7 +3,6 @@
 <ul dir="auto">
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actualmente estoy aprendiendo </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></strong></p>
-</li>
 <li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pregúntame sobre </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript, Node, HTML, CSS, Webpack, Babel, NPM, Arduino y Python</font></font></strong></p>
