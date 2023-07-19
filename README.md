@@ -5,8 +5,6 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actualmente estoy aprendiendo </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Regularmente escribo artículos en </font></font><a href="https://dev.to/haroldom" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://dev.to/haroldom</font></font></a></p>
-</li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pregúntame sobre </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript, Node, HTML, CSS, Webpack, Babel, NPM, Arduino y Python</font></font></strong></p>
 </li>
