@@ -7,9 +7,6 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pregúntame sobre </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript, Node, HTML, CSS, Webpack, Babel, NPM, Arduino y Python</font></font></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📫</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cómo contactarme </font></font><strong><a href="mailto:h4roldsmail@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">h4roldsmail@gmail.com</font></font></a></strong></p>
-</li>
-<li>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dato curioso </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">soy de Perú bruh</font></font></strong></p>
 </li>
 </ul>
