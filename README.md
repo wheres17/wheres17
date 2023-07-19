@@ -10,3 +10,4 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dato curioso </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">soy de Perú bruh</font></font></strong></p>
 </li>
 </ul>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
